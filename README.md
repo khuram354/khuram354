@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @khuram354
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Khuram Shahzad from Pakistan
+- 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on front-end-development
 - 📫 How to reach me khurammirza354@gmail.com
